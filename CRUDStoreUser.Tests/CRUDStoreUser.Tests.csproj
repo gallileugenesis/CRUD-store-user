@@ -64,7 +64,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CRUD_Usuário\CRUDStoreUser.csproj">
+    <ProjectReference Include="..\CRUDStoreUser\CRUDStoreUser.csproj">
       <Project>{90FC7C16-329D-426E-B81B-2CFC5B5C646E}</Project>
       <Name>CRUDStoreUser</Name>
     </ProjectReference>

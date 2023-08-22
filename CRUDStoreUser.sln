@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDStoreUser", "CRUD_Usuário\CRUDStoreUser.csproj", "{90FC7C16-329D-426E-B81B-2CFC5B5C646E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDStoreUser", "CRUDStoreUser\CRUDStoreUser.csproj", "{90FC7C16-329D-426E-B81B-2CFC5B5C646E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDStoreUser.Tests", "CRUD_Usuário.Tests\CRUDStoreUser.Tests.csproj", "{54A0C805-75FD-4C10-8374-C839945BB288}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDStoreUser.Tests", "CRUDStoreUser.Tests\CRUDStoreUser.Tests.csproj", "{54A0C805-75FD-4C10-8374-C839945BB288}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{E756016A-3E99-49C0-9849-B1E2B06CB4D7}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
