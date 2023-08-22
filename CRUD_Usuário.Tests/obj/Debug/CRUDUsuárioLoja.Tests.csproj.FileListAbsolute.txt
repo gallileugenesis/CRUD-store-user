@@ -1,2 +1,0 @@
-F:\OneDrive - Universidade Federal de Pernambuco\Pitang\PGE\Treinamento .NET\Solution3_15_08_2023\CRUD_Usuário.Tests\obj\Debug\CRUDUsuárioLoja.Tests.csproj.AssemblyReference.cache
-F:\OneDrive - Universidade Federal de Pernambuco\Pitang\PGE\Treinamento .NET\Solution3_15_08_2023\CRUD_Usuário.Tests\obj\Debug\CRUDUsuárioLoja.Tests.csproj.CoreCompileInputs.cache
