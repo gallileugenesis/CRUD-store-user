@@ -64,9 +64,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CRUD_Usuário\CRUDUserStore.csproj">
+    <ProjectReference Include="..\CRUD_Usuário\CRUDStoreUser.csproj">
       <Project>{90FC7C16-329D-426E-B81B-2CFC5B5C646E}</Project>
-      <Name>CRUDUserStore</Name>
+      <Name>CRUDStoreUser</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

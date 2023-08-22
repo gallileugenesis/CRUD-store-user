@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDUserStore", "CRUD_Usuário\CRUDUserStore.csproj", "{90FC7C16-329D-426E-B81B-2CFC5B5C646E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDStoreUser", "CRUD_Usuário\CRUDStoreUser.csproj", "{90FC7C16-329D-426E-B81B-2CFC5B5C646E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDUserStore.Tests", "CRUD_Usuário.Tests\CRUDUserStore.Tests.csproj", "{54A0C805-75FD-4C10-8374-C839945BB288}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDStoreUser.Tests", "CRUD_Usuário.Tests\CRUDStoreUser.Tests.csproj", "{54A0C805-75FD-4C10-8374-C839945BB288}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

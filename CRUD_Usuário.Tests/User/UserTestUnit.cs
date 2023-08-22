@@ -1,8 +1,8 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
-using CRUDUserStore.Model;
+using CRUDStoreUser.Model;
 
-namespace CRUDUserStore.Tests.UserTestUnit
+namespace CRUDStoreUser.Tests.UserTestUnit
 {
     [TestClass]
     public class UserTestUnit
