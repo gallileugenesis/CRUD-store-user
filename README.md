@@ -5,11 +5,8 @@ Bem-vindo ao repositório do projeto CRUD Store User! Este é um projeto em anda
 O projeto CRUD Store User terá as seguintes funcionalidades principais:
 
 - **Cadastro de Usuários:** Permite adicionar novos usuários à base de dados da loja, incluindo informações como nome, sobrenome, e-mail, endereço etc.
-
 - **Visualização de Usuários:** Permite visualizar a lista de todos os usuários cadastrados na loja, exibindo detalhes como nome, e-mail e outras informações relevantes.
-
 - **Atualização de Usuários:** Permite modificar as informações dos usuários cadastrados, como endereço, número de telefone, etc.
-
 - **Remoção de Usuários:** Permite remover um usuário da base de dados da loja.
 
 ### Tecnologias Utilizadas
