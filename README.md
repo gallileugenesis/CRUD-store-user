@@ -23,14 +23,15 @@ O projeto está sendo desenvolvido utilizando as seguintes tecnologias:
 Se você está interessado em contribuir para o desenvolvimento deste projeto, ficamos felizes em receber sua colaboração! Siga os passos abaixo:
 
 1. Faça um fork deste repositório para o seu próprio perfil.
-2 . Clone o repositório forkado para sua máquina local.
-Crie uma nova branch para suas modificações: git checkout -b feature/nova-feature
-Faça suas modificações e adições de código.
-Certifique-se de testar as funcionalidades novas e existentes.
-Faça commit das suas mudanças: git commit -m "Adiciona nova feature"
-Faça push para a branch no seu repositório forkado: git push origin feature/nova-feature
-Abra um Pull Request neste repositório, explicando suas modificações e o propósito da sua contribuição.
-Status Atual
+2. Clone o repositório forkado para sua máquina local.
+3. Crie uma nova branch para suas modificações: git checkout -b feature/nova-feature
+4. Faça suas modificações e adições de código.
+5. Certifique-se de testar as funcionalidades novas e existentes.
+6. Faça commit das suas mudanças: git commit -m "Adiciona nova feature"
+7. Faça push para a branch no seu repositório forkado: git push origin feature/nova-feature
+8. Abra um Pull Request neste repositório, explicando suas modificações e o propósito da sua contribuição.
+
+### Status Atual
 O projeto ainda está em desenvolvimento ativo. Funcionalidades básicas já foram implementadas, mas há muito trabalho a ser feito para aprimorar a usabilidade, adicionar validações e melhorar o design.
 
 ### Aviso
