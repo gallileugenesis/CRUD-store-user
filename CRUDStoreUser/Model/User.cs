@@ -5,13 +5,10 @@ using System.Web;
 
 namespace CRUDStoreUser.Model
 {
-    public class User
+    public class User : Person // Falar mais sobre herança
     {
         // Variáveis
-        public Guid Id { get; set; } // pq não termina com ;? 
-        public string Name { get; set; } // Falar mais sobre get e set
         public string Password { get; set; }
-        public string Email { get; set; }
         public bool Valid { get; set; }
 
         // Métodos
