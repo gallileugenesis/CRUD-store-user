@@ -12,7 +12,9 @@ namespace CRUDStoreUser.Model
         public string Description { get; set; }
         public DateTime Creationdate { get; set; }
         public bool Valid { get; set; }
-        public Person
+        
+        
+        public virtual List<Person> Employers { get; set; }
         public virtual List<Item> Items { get; set; } // pq virtual?
 
     }
