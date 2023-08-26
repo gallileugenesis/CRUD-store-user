@@ -12,7 +12,7 @@ namespace CRUDStoreUser.Model
         public bool Valid { get; set; }
 
         // Métodos
-        public User()
+        public User(int id, string name) : base(id, name)
         {
 
         }

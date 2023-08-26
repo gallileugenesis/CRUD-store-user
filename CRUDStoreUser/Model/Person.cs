@@ -5,14 +5,17 @@ using System.Web;
 
 namespace CRUDStoreUser.Model
 {
-    public class Person
+    public class Person: BaseClass
     {
-        public Guid Id { get; set; } // pq usou Guid e não int?
-        public string Name { get; set; }
         public string BrithDate { get; set; }
         public string Email { get; set; }
 
-       
+        public Person(int id, string name) : base(id, name)
+        {
+
+        }
+
+
     }
 
 

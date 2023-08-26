@@ -186,6 +186,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Model\BaseClass.cs" />
     <Compile Include="Model\Item.cs" />
     <Compile Include="Model\Person.cs" />
     <Compile Include="Model\ShopCart.cs" />
@@ -216,7 +217,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="View\" />
+    <Folder Include="View\Item\" />
+    <Folder Include="View\Store\" />
+    <Folder Include="View\User\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
