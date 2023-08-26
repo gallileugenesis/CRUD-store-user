@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace CRUD_Usuário.Model
+namespace CRUDStoreUser.Model
 {
     public class ShopCart
     {

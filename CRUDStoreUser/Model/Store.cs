@@ -5,7 +5,7 @@ using System.Web;
 
 namespace CRUDStoreUser.Model
 {
-    public class Store : BaseClass
+    public class Store  
     {
         public string Description { get; set; }
         public DateTime Creationdate { get; set; }
